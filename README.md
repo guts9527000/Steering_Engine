@@ -12,3 +12,4 @@ LED标识当前的三种模式，同时可选择使用不同亮度/渐变来标�
 
 
 
+<img width="1281" height="712" alt="QQ_1780561041451" src="https://github.com/user-attachments/assets/b11ab2c4-1181-4aea-a50a-280c8cbf0855" />
