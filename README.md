@@ -1,3 +1,5 @@
+<img width="1694" height="942" alt="QQ_1780561160530" src="https://github.com/user-attachments/assets/15a1e526-b36d-4013-8b68-42d325c5ebc8" />
+<img width="2145" height="1167" alt="QQ_1780561126415" src="https://github.com/user-attachments/assets/a58bc7d6-0e05-45ca-b462-2aea5ad66254" />
 要求：
 软件实现三个模式：手动控制、中位模式、扫描模式。通过按键进行切换
 手动模式下，数码管显示占空比，180、270、360舵机角度，通过编码器旋转调整角度，按键切换显示的内容，按键切换编码器设置的位。
